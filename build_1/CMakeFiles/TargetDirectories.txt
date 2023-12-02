@@ -1,0 +1,6 @@
+C:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1/CMakeFiles/BattleCity.dir
+C:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1/CMakeFiles/ALL_BUILD.dir
+C:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1/CMakeFiles/ZERO_CHECK.dir
+C:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1/external/glfw/src/CMakeFiles/update_mappings.dir

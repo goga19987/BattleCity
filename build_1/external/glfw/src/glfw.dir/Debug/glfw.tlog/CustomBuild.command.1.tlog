@@ -1,0 +1,10 @@
+^C:\USERS\GOGA\DESKTOP\SIMPLECODING\BATTLECITY\EXTERNAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/GoGa/Desktop/SimpleCoding/BattleCity -BC:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1 --check-stamp-file C:/Users/GoGa/Desktop/SimpleCoding/BattleCity/build_1/external/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
